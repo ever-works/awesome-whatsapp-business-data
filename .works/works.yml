@@ -1,18 +1,21 @@
-company_name: "Awesome WhatsApp Business"
+company_name: Awesome WhatsApp Business
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome WhatsApp Business"
-initial_prompt: "A curated directory of WhatsApp Business API providers (BSPs), shared inboxes, chatbots and broadcast tools. Include products such as Meta WhatsApp Cloud API, Twilio, Bird, 360dialog, Gupshup, Wati, Interakt, AiSensy, respond.io, Gallabox, Trengo, Infobip, plus other notable commercial and open-source options. Categories: WhatsApp Business API Providers, Shared Team Inbox, Chatbots & Automation, Broadcasts & Marketing, Commerce & Catalogs, Open-Source SDKs. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-whatsapp-business-website"
-company_website: "https://whatsapp-business.ever.works"
+name: Awesome WhatsApp Business
+initial_prompt: "A curated directory of WhatsApp Business API providers (BSPs),
+  shared inboxes, chatbots and broadcast tools. Include products such as Meta
+  WhatsApp Cloud API, Twilio, Bird, 360dialog, Gupshup, Wati, Interakt, AiSensy,
+  respond.io, Gallabox, Trengo, Infobip, plus other notable commercial and
+  open-source options. Categories: WhatsApp Business API Providers, Shared Team
+  Inbox, Chatbots & Automation, Broadcasts & Marketing, Commerce & Catalogs,
+  Open-Source SDKs. For every item capture the official website, a short factual
+  description, pricing model (free, freemium, paid, open source), deployment
+  (cloud or self-hosted), key features and integrations."
+website_repo: ever-works/awesome-whatsapp-business-website
+company_website: https://whatsapp-business.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
