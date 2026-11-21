@@ -1,0 +1,12 @@
+name: "Trengo"
+description: "Trengo is a multi-channel shared team inbox that includes WhatsApp, email, and social messaging. It offers automation, chatbots, and collaboration tools for support teams. Paid plans with per-user pricing."
+source_url: "https://trengo.com/"
+category: "Shared Team Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "multi-channel-inbox"
+icon_url: "https://icons.duckduckgo.com/ip3/trengo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://trengo.com/>\n"
+updated_at: "2026-11-21 13:41"

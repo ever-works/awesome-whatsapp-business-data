@@ -1,0 +1,12 @@
+name: "respond.io"
+description: "respond.io is a customer messaging platform that unifies WhatsApp and other channels in a shared team inbox. It includes automation, contact management, and reporting. Paid subscription plans with usage fees."
+source_url: "https://respond.io/"
+category: "Shared Team Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "omnichannel-inbox"
+icon_url: "https://icons.duckduckgo.com/ip3/respond.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://respond.io/>\n"
+updated_at: "2026-11-21 13:41"

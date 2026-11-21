@@ -1,0 +1,12 @@
+name: "Zendesk"
+description: "Zendesk Support Suite includes WhatsApp as a messaging channel within a shared team inbox. It offers ticketing, automation, and reporting for customer service operations. Paid plans with per-agent pricing."
+source_url: "https://www.zendesk.com/"
+category: "Shared Team Inbox"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ticketing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zendesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.zendesk.com/>\n"
+updated_at: "2026-11-21 13:41"

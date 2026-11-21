@@ -1,0 +1,12 @@
+name: "DelightChat"
+description: "DelightChat is a WhatsApp helpdesk and shared inbox built for e-commerce brands. It supports order notifications, catalog sharing, and multi-agent collaboration. Paid plans based on users and messages."
+source_url: "https://delightchat.io/"
+category: "Commerce & Catalogs"
+tags:
+  - "paid"
+  - "api"
+  - "e-commerce"
+  - "helpdesk"
+icon_url: "https://icons.duckduckgo.com/ip3/delightchat.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://delightchat.io/>\n"
+updated_at: "2026-11-21 13:41"

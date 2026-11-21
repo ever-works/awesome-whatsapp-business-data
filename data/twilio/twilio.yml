@@ -1,0 +1,12 @@
+name: "Twilio"
+description: "Twilio provides a programmable WhatsApp Messaging API for notifications, customer support, and conversational commerce. Developers and businesses use it to embed WhatsApp into applications. Usage-based pricing with no monthly commitment."
+source_url: "https://www.twilio.com/"
+category: "WhatsApp Business API Providers"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "cpaas"
+icon_url: "https://icons.duckduckgo.com/ip3/www.twilio.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.twilio.com/>\n"
+updated_at: "2026-11-21 13:41"

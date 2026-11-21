@@ -1,0 +1,12 @@
+name: "Vonage"
+description: "Vonage offers a WhatsApp Business API as part of its communications platform for notifications and customer service. Developers integrate it via REST APIs and SDKs. Usage-based pricing with volume discounts."
+source_url: "https://www.vonage.com/"
+category: "WhatsApp Business API Providers"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "cpaas"
+icon_url: "https://icons.duckduckgo.com/ip3/www.vonage.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.vonage.com/>\n"
+updated_at: "2026-11-21 13:41"

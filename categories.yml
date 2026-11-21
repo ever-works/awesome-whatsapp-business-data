@@ -1,0 +1,12 @@
+- id: whatsapp-business-api-providers
+  name: "WhatsApp Business API Providers"
+- id: shared-team-inbox
+  name: "Shared Team Inbox"
+- id: chatbots-and-automation
+  name: "Chatbots & Automation"
+- id: broadcasts-and-marketing
+  name: "Broadcasts & Marketing"
+- id: commerce-and-catalogs
+  name: "Commerce & Catalogs"
+- id: open-source-sdks
+  name: "Open-Source SDKs"

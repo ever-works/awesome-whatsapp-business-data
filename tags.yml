@@ -1,0 +1,60 @@
+- id: api
+  name: "API"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: cpaas
+  name: "CPaaS"
+- id: omnichannel
+  name: "Omnichannel"
+- id: bsp
+  name: "BSP"
+- id: ai-powered
+  name: "AI-Powered"
+- id: conversational-platform
+  name: "Conversational Platform"
+- id: smb-crm
+  name: "SMB CRM"
+- id: broadcast
+  name: "Broadcast"
+- id: whatsapp-marketing
+  name: "WhatsApp Marketing"
+- id: omnichannel-inbox
+  name: "Omnichannel Inbox"
+- id: no-code-chatbot
+  name: "No-Code Chatbot"
+- id: smb
+  name: "SMB"
+- id: multi-channel-inbox
+  name: "Multi-channel Inbox"
+- id: freemium
+  name: "Freemium"
+- id: chatbot-builder
+  name: "Chatbot Builder"
+- id: customer-support
+  name: "Customer Support"
+- id: ticketing
+  name: "Ticketing"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: customer-engagement
+  name: "Customer Engagement"
+- id: node-js
+  name: "Node.js"
+- id: whatsapp-web
+  name: "WhatsApp Web"
+- id: conversational-ai
+  name: "Conversational AI"
+- id: sales-engagement
+  name: "Sales Engagement"
+- id: whatsapp-inbox
+  name: "WhatsApp Inbox"
+- id: e-commerce
+  name: "E-commerce"
+- id: helpdesk
+  name: "Helpdesk"

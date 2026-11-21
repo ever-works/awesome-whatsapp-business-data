@@ -1,0 +1,13 @@
+name: "Chatwoot"
+description: "Chatwoot is an open-source customer engagement suite with a shared team inbox for WhatsApp and other channels. It can be self-hosted or used as a managed service. Free to self-host under GPL v3."
+source_url: "https://www.chatwoot.com/"
+category: "Shared Team Inbox"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "customer-engagement"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chatwoot.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.chatwoot.com/>\n- Repository: <https://github.com/chatwoot/chatwoot>\n\nLicense: GNU GPL v3.\n"
+updated_at: "2026-11-21 13:41"

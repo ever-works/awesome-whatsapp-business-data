@@ -1,0 +1,11 @@
+name: "Freshworks Freshchat"
+description: "Freshchat is a customer messaging software from Freshworks that includes WhatsApp as a channel. It provides a shared inbox, bots, and analytics for support teams. Freemium plan with paid tiers."
+source_url: "https://www.freshworks.com/freshchat"
+category: "Shared Team Inbox"
+tags:
+  - "freemium"
+  - "api"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.freshworks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.freshworks.com/freshchat>\n"
+updated_at: "2026-11-21 13:41"

@@ -1,0 +1,12 @@
+name: "Bird"
+description: "Bird (formerly MessageBird) offers WhatsApp Business API access alongside omnichannel messaging and contact center tools. It serves enterprises needing global reach and unified communications. Pricing is usage-based and volume-dependent."
+source_url: "https://bird.com/"
+category: "WhatsApp Business API Providers"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "omnichannel"
+icon_url: "https://icons.duckduckgo.com/ip3/bird.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://bird.com/>\n"
+updated_at: "2026-11-21 13:41"

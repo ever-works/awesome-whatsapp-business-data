@@ -1,0 +1,12 @@
+name: "SleekFlow"
+description: "SleekFlow is an omnichannel shared inbox and automation platform with WhatsApp integration. It supports workflows, broadcast messaging, and e-commerce connections. Paid subscription plans based on users and messages."
+source_url: "https://sleekflow.io/"
+category: "Shared Team Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "omnichannel-inbox"
+icon_url: "https://icons.duckduckgo.com/ip3/sleekflow.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://sleekflow.io/>\n"
+updated_at: "2026-11-21 13:41"

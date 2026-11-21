@@ -1,0 +1,13 @@
+name: "whatsapp-web.js"
+description: "whatsapp-web.js is a Node.js library that automates WhatsApp Web via a local browser instance. Developers use it to build custom bots and integrations without an official API. Free and open source under the MIT license."
+source_url: "https://github.com/pedroslopez/whatsapp-web.js"
+category: "Open-Source SDKs"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "node-js"
+  - "whatsapp-web"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/pedroslopez/whatsapp-web.js>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 13:41"

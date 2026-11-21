@@ -1,0 +1,13 @@
+name: "Rasa"
+description: "Rasa is an open-source conversational AI platform for building chatbots and voice assistants. It can be connected to WhatsApp through custom channels and self-hosted. Free to use under Apache-2.0 with paid enterprise options."
+source_url: "https://rasa.com/"
+category: "Chatbots & Automation"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "ai-powered"
+  - "api"
+  - "conversational-ai"
+icon_url: "https://icons.duckduckgo.com/ip3/rasa.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://rasa.com/>\n- Repository: <https://github.com/RasaHQ/rasa>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 13:41"

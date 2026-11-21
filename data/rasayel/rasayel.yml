@@ -1,0 +1,12 @@
+name: "Rasayel"
+description: "Rasayel is a WhatsApp shared inbox and sales engagement platform for teams. It includes broadcast messaging, CRM integrations, and conversation assignment. Paid monthly subscription plans."
+source_url: "https://rasayel.io/"
+category: "Shared Team Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "sales-engagement"
+  - "whatsapp-inbox"
+icon_url: "https://icons.duckduckgo.com/ip3/rasayel.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://rasayel.io/>\n"
+updated_at: "2026-11-21 13:41"
