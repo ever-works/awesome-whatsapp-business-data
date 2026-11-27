@@ -34,3 +34,5 @@ custom_menu:
 version: 0.1.0
 activity_sync:
   mode: pull
+providers:
+  pipeline: agent-pipeline
