@@ -1,60 +1,78 @@
 - id: api
-  name: "API"
+  name: API
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: cpaas
-  name: "CPaaS"
+  name: CPaaS
 - id: omnichannel
-  name: "Omnichannel"
+  name: Omnichannel
 - id: bsp
-  name: "BSP"
+  name: BSP
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: conversational-platform
-  name: "Conversational Platform"
+  name: Conversational Platform
 - id: smb-crm
-  name: "SMB CRM"
+  name: SMB CRM
 - id: broadcast
-  name: "Broadcast"
+  name: Broadcast
 - id: whatsapp-marketing
-  name: "WhatsApp Marketing"
+  name: WhatsApp Marketing
 - id: omnichannel-inbox
-  name: "Omnichannel Inbox"
+  name: Omnichannel Inbox
 - id: no-code-chatbot
-  name: "No-Code Chatbot"
+  name: No Code Chatbot
 - id: smb
-  name: "SMB"
+  name: SMB
 - id: multi-channel-inbox
-  name: "Multi-channel Inbox"
+  name: Multi-channel Inbox
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: chatbot-builder
-  name: "Chatbot Builder"
+  name: Chatbot Builder
 - id: customer-support
-  name: "Customer Support"
+  name: Customer Support
 - id: ticketing
-  name: "Ticketing"
+  name: Ticketing
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: customer-engagement
-  name: "Customer Engagement"
+  name: Customer Engagement
 - id: node-js
-  name: "Node.js"
+  name: Node.js
 - id: whatsapp-web
-  name: "WhatsApp Web"
+  name: WhatsApp Web
 - id: conversational-ai
-  name: "Conversational AI"
+  name: Conversational AI
 - id: sales-engagement
-  name: "Sales Engagement"
+  name: Sales Engagement
 - id: whatsapp-inbox
-  name: "WhatsApp Inbox"
+  name: WhatsApp Inbox
 - id: e-commerce
-  name: "E-commerce"
+  name: E-commerce
 - id: helpdesk
-  name: "Helpdesk"
+  name: Helpdesk
+- id: nodejs
+  name: Node.js
+- id: typescript
+  name: TypeScript
+- id: workflow-automation
+  name: Workflow Automation
+- id: whatsapp-integration
+  name: WhatsApp Integration
+- id: go
+  name: Go
+- id: rest-api
+  name: REST API
+- id: whatsapp-chatbot
+  name: WhatsApp Chatbot
+- id: rust
+  name: Rust
+- id: cloud
+  name: Cloud

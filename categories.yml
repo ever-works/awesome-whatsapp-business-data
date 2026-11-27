@@ -1,12 +1,44 @@
 - id: whatsapp-business-api-providers
-  name: "WhatsApp Business API Providers"
+  name: WhatsApp Business API Providers
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="20" height="14" x="2" y="7" rx="2"
+    ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 - id: shared-team-inbox
-  name: "Shared Team Inbox"
+  name: Shared Team Inbox
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="20" height="16" x="2" y="4"
+    rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
 - id: chatbots-and-automation
-  name: "Chatbots & Automation"
+  name: Chatbots & Automation
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="8" height="8" x="3" y="3" rx="2"/><path
+    d="M7 11v4a2 2 0 0 0 2 2h4"/><rect width="8" height="8" x="13" y="13"
+    rx="2"/></svg>
 - id: broadcasts-and-marketing
-  name: "Broadcasts & Marketing"
+  name: Broadcasts & Marketing
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="m22 8-6 4 6 4V8Z"/><rect width="14"
+    height="12" x="2" y="6" rx="2" ry="2"/></svg>
 - id: commerce-and-catalogs
-  name: "Commerce & Catalogs"
+  name: Commerce & Catalogs
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M4 4v16l4-2 4 2V4z"/><path d="M6 4V2M10
+    4V2"/></svg>
 - id: open-source-sdks
-  name: "Open-Source SDKs"
+  name: Open Source SDKs
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
+- id: chatbots-automation
+  name: Chatbots & Automation
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="8" height="8" x="3" y="3" rx="2"/><path
+    d="M7 11v4a2 2 0 0 0 2 2h4"/><rect width="8" height="8" x="13" y="13"
+    rx="2"/></svg>
