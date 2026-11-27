@@ -1,0 +1,54 @@
+name: Venom Bot
+description: Venom Bot is a WhatsApp automation framework for building bots and
+  automation tools. It runs on Node.js and connects to WhatsApp Web, providing
+  features for sending messages, managing sessions, and handling media. Open
+  source and self-hosted.
+source_url: https://github.com/orkestral/venom
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - Node.js
+  - WhatsApp Web
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Venom Bot is a WhatsApp automation framework for building bots and automation
+  tools through WhatsApp Web.
+
+
+  ## Features
+
+
+  - WhatsApp Web automation
+
+  - Send and receive messages
+
+  - Session management
+
+  - Media handling
+
+  - Bot creation and automation
+
+  - Contact and group management
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/orkestral/venom
+updated_at: 2026-11-27 04:39

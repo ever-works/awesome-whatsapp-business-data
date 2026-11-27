@@ -1,0 +1,49 @@
+name: Whatomate
+description: Whatomate is an open-source WhatsApp integration written in Go. It
+  provides a self-hosted solution for WhatsApp messaging and automation through
+  a REST API.
+source_url: https://github.com/whatomate/whatomate
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - Go
+  - API
+featured: false
+markdown: >
+  ## Overview
+
+
+  Whatomate is an open-source WhatsApp integration written in Go. It enables
+  self-hosted WhatsApp messaging and automation.
+
+
+  ## Features
+
+
+  - WhatsApp integration
+
+  - REST API for messaging
+
+  - Self-hosted deployment
+
+  - Go-based
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/whatomate/whatomate
+updated_at: 2026-11-27 04:39

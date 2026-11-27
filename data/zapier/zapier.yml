@@ -1,0 +1,58 @@
+name: Zapier
+description: Zapier is a workflow automation platform that supports WhatsApp
+  integrations, enabling businesses to connect WhatsApp with thousands of other
+  applications. It automates data transfer and actions between WhatsApp and CRM,
+  support, and marketing tools. Freemium pricing model.
+source_url: https://zapier.com/
+category: Chatbots & Automation
+tags:
+  - Workflow Automation
+  - Freemium
+  - API
+  - Omnichannel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zapier is a workflow automation platform that connects WhatsApp with thousands
+  of other applications to automate business processes.
+
+
+  ## Features
+
+
+  - WhatsApp integration and automation
+
+  - Connect WhatsApp to 5,000+ applications
+
+  - Multi-step workflows (Zaps)
+
+  - Trigger-based automation
+
+  - Data synchronization between WhatsApp and business tools
+
+  - No-code automation builder
+
+
+  ## Pricing
+
+
+  Freemium model with a free plan and paid tiers for higher task volumes and
+  premium features.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+
+
+  ## Integrations
+
+
+  WhatsApp, CRMs, helpdesks, marketing tools, spreadsheets, and thousands of
+  other SaaS applications.
+brand: Zapier
+brand_logo_url: https://zapier.com/logo.png
+updated_at: 2026-11-27 04:39

@@ -1,0 +1,60 @@
+name: Evolution API
+description: Evolution API is an open-source WhatsApp integration API written in
+  TypeScript. It provides a self-hosted gateway for sending and receiving
+  WhatsApp messages, managing sessions, and integrating WhatsApp into custom
+  applications without relying on the official WhatsApp Business API. Free and
+  open source under the MIT license.
+source_url: https://github.com/EvolutionAPI/evolution-api
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - TypeScript
+  - API
+featured: false
+markdown: >
+  ## Overview
+
+
+  Evolution API is an open-source WhatsApp integration API written in
+  TypeScript. It enables self-hosted WhatsApp messaging and automation through a
+  REST API.
+
+
+  ## Features
+
+
+  - WhatsApp integration via REST API
+
+  - Session management
+
+  - Message sending and receiving
+
+  - Self-hosted deployment
+
+  - TypeScript-based
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## License
+
+
+  MIT License.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/EvolutionAPI/evolution-api
+updated_at: 2026-11-27 04:39

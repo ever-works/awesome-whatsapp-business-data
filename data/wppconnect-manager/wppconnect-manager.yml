@@ -1,0 +1,54 @@
+name: WPPConnect Manager
+description: Self-hosted WhatsApp REST API built on WPPConnect. Manage sessions,
+  messages, media, contacts, groups and webhooks, with Docker deployment and the
+  WPPConnect Manager UI. Written in TypeScript.
+source_url: https://github.com/wppconnect-team/wppconnect
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - TypeScript
+  - Node.js
+featured: false
+markdown: >
+  ## Overview
+
+
+  WPPConnect Manager is a self-hosted WhatsApp REST API built on WPPConnect. It
+  enables management of sessions, messages, media, contacts, groups and webhooks
+  with Docker deployment and a web UI.
+
+
+  ## Features
+
+
+  - WhatsApp REST API
+
+  - Session management
+
+  - Message, media, contact and group management
+
+  - Webhooks
+
+  - Docker deployment
+
+  - WPPConnect Manager UI
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/wppconnect-team/wppconnect
+updated_at: 2026-11-27 04:39

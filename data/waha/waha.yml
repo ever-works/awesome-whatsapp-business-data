@@ -1,0 +1,53 @@
+name: WAHA - WhatsApp HTTP API
+description: "WAHA is a WhatsApp HTTP API (REST API) that can be configured in a
+  click. It supports multiple engines: WEBJS (browser based), NOWEB (websocket
+  nodejs), GOWS (websocket go), and WPP (browser). Written in TypeScript, it is
+  open source and self-hosted."
+source_url: https://github.com/devlikeapro/waha
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - TypeScript
+  - REST API
+featured: false
+markdown: >
+  ## Overview
+
+
+  WAHA - WhatsApp HTTP API is a REST API for WhatsApp that can be configured in
+  a click. It supports multiple engines including WEBJS (browser based), NOWEB
+  (websocket nodejs), GOWS (websocket go), and WPP (browser).
+
+
+  ## Features
+
+
+  - WhatsApp HTTP API (REST API)
+
+  - Multiple engine support: WEBJS, NOWEB, GOWS, WPP
+
+  - Browser-based and websocket options
+
+  - Session management
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/devlikeapro/waha
+updated_at: 2026-11-27 04:39

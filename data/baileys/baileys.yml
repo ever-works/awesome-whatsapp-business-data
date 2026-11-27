@@ -1,0 +1,60 @@
+name: Baileys
+description: Baileys is a TypeScript and JavaScript WhatsApp Web API library for
+  building WhatsApp bots and automation. It connects to WhatsApp Web and
+  provides functionality for sending messages, managing groups, and handling
+  media. Licensed under MIT, it is free and self-hosted.
+source_url: https://github.com/WhiskeySockets/Baileys
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - Node.js
+  - WhatsApp Web
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Baileys is a TypeScript and JavaScript WhatsApp Web API library for building
+  WhatsApp bots and automation tools.
+
+
+  ## Features
+
+
+  - WhatsApp Web API integration
+
+  - Send and receive messages
+
+  - Group management
+
+  - Media handling (images, documents, audio, video)
+
+  - Typing indicators and read receipts
+
+  - Contact and profile management
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## License
+
+
+  MIT License.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/WhiskeySockets/Baileys
+updated_at: 2026-11-27 04:39

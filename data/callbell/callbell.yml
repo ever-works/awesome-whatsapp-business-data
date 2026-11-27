@@ -1,0 +1,58 @@
+name: Callbell
+description: Callbell is a WhatsApp communication and customer support platform
+  that provides a shared team inbox for managing WhatsApp conversations. It
+  enables multiple team members to collaborate on customer messages across
+  WhatsApp, Instagram, and Messenger. Paid plans with a free trial available.
+source_url: https://www.callbell.eu/
+category: Shared Team Inbox
+tags:
+  - Omnichannel Inbox
+  - Customer Support
+  - Paid
+  - WhatsApp Inbox
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Callbell is a WhatsApp communication and customer support platform that
+  provides a shared team inbox for managing customer conversations.
+
+
+  ## Features
+
+
+  - Shared team inbox for WhatsApp conversations
+
+  - Multi-agent collaboration on customer messages
+
+  - WhatsApp, Instagram, and Messenger support
+
+  - Conversation assignment and routing
+
+  - Contact management and profiles
+
+  - Message templates and quick replies
+
+  - Analytics and reporting
+
+
+  ## Pricing
+
+
+  Paid plans with a free trial available.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+
+
+  ## Integrations
+
+
+  WhatsApp, Instagram, Messenger, CRM, and business tools via API and native
+  integrations.
+brand: Callbell
+updated_at: 2026-11-27 04:39

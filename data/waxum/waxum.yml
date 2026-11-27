@@ -1,0 +1,59 @@
+name: Waxum
+description: Waxum is an MIT-licensed WhatsApp gateway written in Rust, shipped
+  as a single binary with a REST API and webhooks. It enables WhatsApp messaging
+  and automation without relying on WhatsApp Business API. Open source and
+  self-hosted.
+source_url: https://github.com/imtaqin/waxum
+category: Open-Source SDKs
+tags:
+  - Open Source
+  - Self-Hosted
+  - Rust
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Waxum is an MIT-licensed WhatsApp gateway written in Rust, distributed as a
+  single binary with a REST API and webhooks for WhatsApp messaging and
+  automation.
+
+
+  ## Features
+
+
+  - WhatsApp gateway functionality
+
+  - REST API for message sending and receiving
+
+  - Webhooks for event notifications
+
+  - Single binary distribution
+
+  - WhatsApp messaging without WhatsApp Business API dependency
+
+
+  ## Pricing
+
+
+  Free and open source.
+
+
+  ## License
+
+
+  MIT License.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/imtaqin/waxum
+updated_at: 2026-11-27 04:39

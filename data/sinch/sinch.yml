@@ -1,0 +1,57 @@
+name: Sinch
+description: Sinch is a CPaaS and conversational messaging platform that
+  provides WhatsApp Business API access alongside SMS, voice, and email
+  channels. It enables businesses to send notifications, provide customer
+  support, and run marketing campaigns via WhatsApp. Pricing is usage-based with
+  volume discounts, targeted at enterprise customers.
+source_url: https://sinch.com/
+category: WhatsApp Business API Providers
+tags:
+  - CPaaS
+  - Enterprise
+  - Paid
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Sinch is a cloud communications platform (CPaaS) that provides WhatsApp
+  Business API access as part of its omnichannel messaging suite.
+
+
+  ## Features
+
+
+  - WhatsApp Business API access and management
+
+  - Omnichannel messaging (WhatsApp, SMS, voice, email)
+
+  - Conversational customer support
+
+  - Notification and alert delivery
+
+  - Marketing campaign messaging
+
+  - Enterprise-grade security and compliance
+
+
+  ## Pricing
+
+
+  Usage-based pricing with volume discounts. Contact Sinch for enterprise
+  pricing details.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+
+
+  ## Integrations
+
+
+  CRM systems, contact center platforms, and business tools via API.
+brand: Sinch
+updated_at: 2026-11-27 04:39

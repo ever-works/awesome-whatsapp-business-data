@@ -1,0 +1,59 @@
+name: WhatsApp Cloud API
+description: The WhatsApp Cloud API is Meta's official cloud-hosted API for the
+  WhatsApp Business Platform. It allows businesses to send and receive WhatsApp
+  messages, manage message templates, and integrate WhatsApp into applications
+  without self-hosting infrastructure. The API itself is free to use; Meta
+  charges per conversation based on pricing tiers.
+source_url: https://developers.facebook.com/docs/whatsapp/cloud-api/
+category: WhatsApp Business API Providers
+tags:
+  - API
+  - Cloud
+  - Paid
+featured: true
+markdown: >-
+  ## Overview
+
+
+  The WhatsApp Cloud API is Meta's official cloud-hosted API for the WhatsApp
+  Business Platform, enabling businesses to communicate with customers on
+  WhatsApp without self-hosting.
+
+
+  ## Features
+
+
+  - Cloud-hosted WhatsApp messaging (no self-hosting required)
+
+  - Send and receive messages, media, and documents
+
+  - Message template management and approval
+
+  - Webhooks for message delivery and status updates
+
+  - Phone number management
+
+  - Integration with WhatsApp Business Platform
+
+
+  ## Pricing
+
+
+  The API is free to use. Meta charges per conversation based on
+  conversation-based pricing tiers (business-initiated and user-initiated
+  conversations).
+
+
+  ## Deployment
+
+
+  Cloud-hosted (managed by Meta).
+
+
+  ## Integrations
+
+
+  Meta Business Suite, CRM platforms, and custom applications via REST API.
+brand: Meta
+brand_logo_url: https://developers.facebook.com/static/fb-docs-logo.png
+updated_at: 2026-11-27 04:39

@@ -1,0 +1,55 @@
+name: MessageBird
+description: MessageBird is an omnichannel communications platform offering
+  WhatsApp Business API access as part of its CPaaS suite. It supports WhatsApp
+  messaging, chatbots, and shared inbox capabilities across multiple channels.
+  Pricing includes a free tier and paid plans based on message volume.
+source_url: https://www.messagebird.com/
+category: WhatsApp Business API Providers
+tags:
+  - CPaaS
+  - Omnichannel
+  - Freemium
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MessageBird is an omnichannel communications platform that provides WhatsApp
+  Business API access alongside SMS, voice, and email channels.
+
+
+  ## Features
+
+
+  - WhatsApp Business API access
+
+  - Omnichannel messaging across WhatsApp, SMS, voice, and email
+
+  - Shared team inbox for customer conversations
+
+  - Chatbot and automation capabilities
+
+  - Contact management and segmentation
+
+  - Analytics and reporting
+
+
+  ## Pricing
+
+
+  Free tier available; paid plans based on message volume and features.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+
+
+  ## Integrations
+
+
+  CRM, helpdesk, and e-commerce platforms via API and pre-built connectors.
+brand: MessageBird
+updated_at: 2026-11-27 04:39
